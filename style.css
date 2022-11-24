@@ -221,13 +221,13 @@ section .option_list .option:hover{
 section .option_list .option.correct{
     color: #155724;
     background: #d4edda;
-    border: 1px solid #c3e6cb;
+    /*border: 1px solid #c3e6cb;*/
 }
 
 section .option_list .option.incorrect{
     color: #721c24;
     background: #f8d7da;
-    border: 1px solid #f5c6cb;
+    /*border: 1px solid #f5c6cb;*/
 }
 
 section .option_list .option.disabled{
@@ -237,8 +237,8 @@ section .option_list .option.disabled{
 section .option_list .option .icon{
     height: 26px;
     width: 26px;
-    border: 2px solid transparent;
-    border-radius: 50%;
+    /*border: 2px solid transparent;
+    border-radius: 50%;*/
     text-align: center;
     font-size: 13px;
     pointer-events: none;
